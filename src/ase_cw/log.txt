@@ -1,0 +1,6 @@
+
+Waiter n° 0 is ready to serve customers ... but nothing has been ordered yet!
+Waiter n°1 taking notes. Order Carrot Soupfor table: 1 noted.
+Waiter n°1 taking notes. Order Chocolate Cakefor table: 3 noted.
+Waiter n°1 taking notes. Order Coconut Shrimp with Mango Dipping Saucefor table: 4 noted.
+Waiter n° 1 is ready to serve customers ... but nothing has been ordered yet!
