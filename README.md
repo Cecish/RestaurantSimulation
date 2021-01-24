@@ -30,6 +30,6 @@ You can compile and run the program yourself (with the *javac* and *java* comman
 ![restaurant_simulation2](https://user-images.githubusercontent.com/16817374/105645107-c733cc80-5e99-11eb-9434-20e03e662f17.JPG)
 
 ## Important notes
-The *restaurant simulation* software has been submitted as part of a university assesment and is licensed here under the Apache License, version 2.0.
+The *restaurant simulation* software has been submitted as part of a university assessment and is licensed here under the Apache License, version 2.0.
 
 Plagiarism is :thumbsdown: and you are not allowed to re-use any part of this project without giving due credit.
